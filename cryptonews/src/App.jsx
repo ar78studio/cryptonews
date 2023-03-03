@@ -1,7 +1,7 @@
 import React from "react";
 // import { Route, Switch, Link } from "react-router-dom";
 // import { BrowserRouter as Router } from "react-router-dom";
-import { Route, Switch, Link } from "react-router";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import {
   Navbar,
